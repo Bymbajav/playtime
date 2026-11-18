@@ -1,0 +1,202 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: "Manrope";
+}
+
+header {
+  display: flex;
+  background-image: url("/Users/26LP88248485/Downloads/2b2f8787985cabb6920eaaeecfea44bd6b5ef5d8 (9).png");
+  background-position: center;
+  background-size: cover;
+  min-height: 70vh;
+  align-items: center;
+  position: relative;
+}
+.hero {
+  width: 100%;
+  position: absolute;
+  display: flex;
+  color: black;
+  gap: 40px;
+  justify-content: flex-end;
+  top: 4%;
+  right: 4%;
+}
+.touch1 {
+  background-color: #f84646;
+  padding: 10px 20px;
+  color: white;
+  border-radius: 5px;
+}
+.hh {
+  max-width: 60%;
+  margin-left: 8%;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+.hh h2 {
+  font-size: 64px;
+  line-height: 82px;
+}
+.hh p {
+  font-size: 20px;
+  line-height: 36px;
+  letter-spacing: 0.2px;
+}
+.bb {
+  background-color: white;
+  display: flex;
+  align-items: center;
+
+  border-radius: 8px;
+  padding: 10px 12px;
+  width: 60%;
+  justify-content: space-between;
+}
+.bb input {
+  font-size: 16px;
+  border-radius: 8px;
+  color: white;
+  border: 0px;
+  width: 60%;
+}
+input:focus {
+  outline: 1px solid red;
+}
+.touch2 {
+  background-color: #f84646;
+  padding: 16px 22px;
+  font-size: 16px;
+  border-radius: 8px;
+}
+.dd {
+  align-items: center;
+}
+.section1 {
+  width: 80%;
+  margin: 90px auto;
+  display: flex;
+  flex-direction: column;
+}
+.secondhead {
+  margin: auto;
+  text-align: center;
+}
+.secondhead h3 {
+  font-size: 48px;
+  margin: 0%;
+}
+.p3 {
+  margin: 0;
+  font-size: 16px;
+}
+.icon {
+  display: flex;
+  flex-wrap: wrap;
+}
+.icon1 {
+  text-align: center;
+}
+.icon1p {
+}
+.ulaanhead {
+  background-image: url("../../Downloads/Responsive Web Page 🎉 (Community) (1).zip");
+  background-position: center;
+  background-size: cover;
+  width: 1440px;
+  height: 376px;
+  margin-top: 200px;
+}
+.ulaan {
+  background-color: #f84646;
+  color: white;
+  text-align: center;
+  font-size: 54px;
+  margin-right: 40px;
+}
+
+.ulaanp {
+  width: 1500px;
+  display: flex;
+  gap: 60px;
+  font-size: 20px;
+  margin-left: 198px;
+  margin-top: 50px;
+  line-height: 1.2;
+}
+.svg {
+  margin-top: 15px;
+}
+.sectoin4 {
+  width: 1197px;
+  height: 1080px;
+
+  border-radius: 8px;
+}
+.body4 {
+  width: 608px;
+  height: 152px;
+  margin-top: 43px;
+  margin-left: 121px;
+  font-size: 64px;
+}
+.h8 {
+  font-size: 64px;
+  margin-top: 20px;
+}
+.body4p {
+  width: 608px;
+  height: 152px;
+  margin-top: 43px;
+  margin-left: 0px;
+  font-size: 18px;
+  font-family: "Manrope";
+  font-weight: 400;
+  font-size: 16px;
+
+  line-height: 32px;
+  letter-spacing: 0%;
+}
+.touch3 {
+  margin-top: 55px;
+  background-color: #f84646;
+  padding: 10px 20px;
+  color: white;
+  border-radius: 5px;
+  border: 0px;
+  font-size: 18px;
+  font-weight: 70px;
+  text-align: center;
+  width: 150px;
+  height: 50px;
+}
+.body42 {
+  display: flex;
+}
+.body4-2 {
+  font-size: 64px;
+}
+.body4-2p {
+  height: 152px;
+  font-size: 16px;
+}
+.touch4 {
+  background-color: #f84646;
+  padding: 10px 20px;
+  color: white;
+  border-radius: 5px;
+  border: 0px;
+  font-size: 18px;
+  font-weight: 70px;
+  text-align: center;
+  width: 150px;
+  height: 50px;
+}
+.section5 {
+  background-color: aliceblue;
+}
+.head5 {
+}
