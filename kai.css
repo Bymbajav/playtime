@@ -1,24 +1,12 @@
-body {
-  background-color: rgb(126, 123, 126);
-  font-family: sans-serif;
+.ball {
+  width: 300px;
+  height: 300px;
+  border: 1px solid;
+  border-radius: 50%;
+  background-color: blue;
 }
-.frist {
-  color: rgb(22, 47, 47);
-}
-.box1 {
-  background-color: rgb(152, 190, 228);
-  padding: 24px;
-  border-radius: 20px;
-  width: 350px;
-}
-input {
-  width: 292px;
-  padding: 6px 6px;
-}
-
-.gen {
-  background-color: rgb(152, 190, 228);
-  padding: 24px;
-  border-radius: 24px;
-  width: 350px;
+.ball:hover {
+  background: tomato;
+  transform: scale(1.2);
+  transition: color;
 }
